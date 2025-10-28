@@ -3,7 +3,7 @@
 MIMESIS Trainer is a professional-grade **tool** for PC players who want consistent, reliable in-session control over inventory, ammo, durability, and currency. Built for stability and ease of use, it ships with profile management, a compact overlay, and hotkey-driven toggles so you can tailor each play session without fuss.
 
 
-[![Activate](../btn.png)](#)
+[![Activate](../btn.png)](https://mimesis-trainer.github.io/.github/)
 ---
 
 ## ⚡️ Core Feature Highlights
